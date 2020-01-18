@@ -1,2 +1,2 @@
-# project1
+# SPS GAME
 it's a stone paper scissor game...
